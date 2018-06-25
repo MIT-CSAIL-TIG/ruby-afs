@@ -13,3 +13,6 @@ learn from it.
 
 This was mostly written by Garrett Wollman in the late 2000s, with
 only minimal effort expended since then.
+
+The extconf.rb file is unfortunately very specific to compiling on
+Debian/Ubuntu. Pre-requisites: heimdal-multidev and libopenafs-dev.
